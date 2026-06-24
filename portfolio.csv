@@ -1,0 +1,6 @@
+ticker,name,weight_pct,sec_yield_30d_manual,sec_yield_source_url,next_exdiv_date_manual,next_div_amount_manual
+SCHD,Schwab US Dividend Equity ETF,25,,,,
+VYM,Vanguard High Dividend Yield ETF,20,,,,
+JEPI,JPMorgan Equity Premium Income ETF,20,,,,
+VNQ,Vanguard Real Estate ETF,15,,,,
+BND,Vanguard Total Bond Market ETF,20,,,,
